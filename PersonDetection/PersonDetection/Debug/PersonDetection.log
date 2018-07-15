@@ -1,0 +1,41 @@
+﻿  PersonDetectionDlg.cpp
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\opencv2.4.13.5\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(210): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(221): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(297): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(365): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(377): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(381): warning C4018: '<': signed/unsigned mismatch
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(391): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(392): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(532): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(582): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(587): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(634): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: see declaration of 'itoa'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(639): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(648): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(659): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(668): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(673): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(681): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(688): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(696): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(108): note: see declaration of 'mkdir'
+c:\users\heoco\desktop\kltn\source\persondetection\persondetection\persondetectiondlg.cpp(847): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+  PersonDetection.vcxproj -> C:\Users\heoco\Desktop\KLTN\SOURCE\PersonDetection\Debug\PersonDetection.exe
+  PersonDetection.vcxproj -> C:\Users\heoco\Desktop\KLTN\SOURCE\PersonDetection\Debug\PersonDetection.pdb (Partial PDB)
